@@ -11,7 +11,7 @@ HEADERS = {"User-Agent": "SlobozaBikeRoutes/0.1 (learning project)"}
 TEST_BBOX = "27.360,44.562,27.364,44.565"
 CITY_BBOX = "27.305918,44.532187,27.409430,44.587655"
 
-OUTPUT_DIR = Path(__file__).parents[2] / "data_sample"
+OUTPUT_DIR = Path(__file__).parents[3] / "data_sample"
 SAMPLE_FILE = OUTPUT_DIR / "slobozia_sample.json"
 FINAL_FILE = OUTPUT_DIR / "slobozia_final_map.json"
 

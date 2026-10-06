@@ -5,7 +5,7 @@ from pathlib import Path
 import oracledb
 from dotenv import load_dotenv
 
-DATA_FILE = Path(__file__).parents[2] / "data_sample" / "slobozia_final_map.json"
+DATA_FILE = Path(__file__).parents[3] / "data_sample" / "slobozia_final_map.json"
 
 INSERT_SQL = """
     INSERT INTO stg_osm_map (bbox_north, bbox_west, bbox_south, bbox_east, payload)

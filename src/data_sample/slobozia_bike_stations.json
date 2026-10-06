@@ -1,0 +1,1899 @@
+[
+  {
+    "uid": 377921586,
+    "lat": 44.564798,
+    "lng": 27.350613,
+    "bike": false,
+    "name": "Piata Garii",
+    "address": null,
+    "spot": true,
+    "number": 35650,
+    "booked_bikes": 0,
+    "bikes": 4,
+    "bikes_available_to_rent": 4,
+    "active_place": 1,
+    "bike_racks": 15,
+    "free_racks": 11,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "7inch",
+    "bike_list": [
+      {
+        "number": "722223",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300006042,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722200",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300007625,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722127",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300010834,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722012",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300008172,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722223",
+      "722200",
+      "722127",
+      "722012"
+    ],
+    "bike_types": {
+      "196": 4
+    },
+    "place_type": "16",
+    "rack_locks": false
+  },
+  {
+    "uid": 377922232,
+    "lat": 44.562443,
+    "lng": 27.351603,
+    "bike": false,
+    "name": "Centrul National de informare si promovare turistică 1",
+    "address": null,
+    "spot": true,
+    "number": 35651,
+    "booked_bikes": 0,
+    "bikes": 1,
+    "bikes_available_to_rent": 1,
+    "active_place": 1,
+    "bike_racks": 15,
+    "free_racks": 9,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "7inch",
+    "bike_list": [
+      {
+        "number": "722154",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300009929,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722154"
+    ],
+    "bike_types": {
+      "196": 1
+    },
+    "place_type": "16",
+    "rack_locks": false
+  },
+  {
+    "uid": 377929396,
+    "lat": 44.562161,
+    "lng": 27.355728,
+    "bike": false,
+    "name": "Ansamblul PECO",
+    "address": null,
+    "spot": true,
+    "number": 35653,
+    "booked_bikes": 0,
+    "bikes": 1,
+    "bikes_available_to_rent": 1,
+    "active_place": 1,
+    "bike_racks": 20,
+    "free_racks": 19,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "7inch",
+    "bike_list": [
+      {
+        "number": "722112",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300007114,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722112"
+    ],
+    "bike_types": {
+      "196": 1
+    },
+    "place_type": "16",
+    "rack_locks": false
+  },
+  {
+    "uid": 377930237,
+    "lat": 44.561912,
+    "lng": 27.362973,
+    "bike": false,
+    "name": "Parcul Oraselul Copiilor",
+    "address": null,
+    "spot": true,
+    "number": 35654,
+    "booked_bikes": 0,
+    "bikes": 3,
+    "bikes_available_to_rent": 3,
+    "active_place": 1,
+    "bike_racks": 20,
+    "free_racks": 15,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "7inch",
+    "bike_list": [
+      {
+        "number": "722213",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300005945,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722145",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300008378,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722028",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300007142,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722213",
+      "722145",
+      "722028"
+    ],
+    "bike_types": {
+      "196": 3
+    },
+    "place_type": "16",
+    "rack_locks": false
+  },
+  {
+    "uid": 377930642,
+    "lat": 44.562099,
+    "lng": 27.369457,
+    "bike": false,
+    "name": "Casa Armatei",
+    "address": null,
+    "spot": true,
+    "number": 35655,
+    "booked_bikes": 0,
+    "bikes": 8,
+    "bikes_available_to_rent": 8,
+    "active_place": 1,
+    "bike_racks": 15,
+    "free_racks": 0,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "7inch",
+    "bike_list": [
+      {
+        "number": "722183",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300007437,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722158",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300008058,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722155",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300010897,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722135",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300008169,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722056",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300006967,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722034",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300007649,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722018",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300008176,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722008",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300005948,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722183",
+      "722158",
+      "722155",
+      "722135",
+      "722056",
+      "722034",
+      "722018",
+      "722008"
+    ],
+    "bike_types": {
+      "196": 8
+    },
+    "place_type": "16",
+    "rack_locks": false
+  },
+  {
+    "uid": 377931859,
+    "lat": 44.561042,
+    "lng": 27.37084,
+    "bike": false,
+    "name": "Parcul Ialomita",
+    "address": null,
+    "spot": true,
+    "number": 35656,
+    "booked_bikes": 0,
+    "bikes": 5,
+    "bikes_available_to_rent": 5,
+    "active_place": 1,
+    "bike_racks": 15,
+    "free_racks": 8,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "7inch",
+    "bike_list": [
+      {
+        "number": "722192",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300010520,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722178",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300005950,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722153",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300005231,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722042",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300007264,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722016",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300007117,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722192",
+      "722178",
+      "722153",
+      "722042",
+      "722016"
+    ],
+    "bike_types": {
+      "196": 5
+    },
+    "place_type": "16",
+    "rack_locks": false
+  },
+  {
+    "uid": 377932190,
+    "lat": 44.563576,
+    "lng": 27.375173,
+    "bike": false,
+    "name": "Liceul de Arte Ionel Perlea",
+    "address": null,
+    "spot": true,
+    "number": 35657,
+    "booked_bikes": 0,
+    "bikes": 1,
+    "bikes_available_to_rent": 1,
+    "active_place": 1,
+    "bike_racks": 10,
+    "free_racks": 8,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "7inch",
+    "bike_list": [
+      {
+        "number": "722240",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300010041,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722240"
+    ],
+    "bike_types": {
+      "196": 1
+    },
+    "place_type": "16",
+    "rack_locks": false
+  },
+  {
+    "uid": 377932730,
+    "lat": 44.567811,
+    "lng": 27.384313,
+    "bike": false,
+    "name": "Parcul Mihai Eminescu",
+    "address": null,
+    "spot": true,
+    "number": 35658,
+    "booked_bikes": 0,
+    "bikes": 7,
+    "bikes_available_to_rent": 7,
+    "active_place": 1,
+    "bike_racks": 15,
+    "free_racks": 7,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "7inch",
+    "bike_list": [
+      {
+        "number": "722160",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300008539,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722140",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300007565,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722130",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300005949,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722124",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300007382,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722118",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300010253,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722096",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300008666,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722027",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300010901,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722160",
+      "722140",
+      "722130",
+      "722124",
+      "722118",
+      "722096",
+      "722027"
+    ],
+    "bike_types": {
+      "196": 7
+    },
+    "place_type": "16",
+    "rack_locks": false
+  },
+  {
+    "uid": 377933064,
+    "lat": 44.564017,
+    "lng": 27.364273,
+    "bike": false,
+    "name": "Tribunal",
+    "address": null,
+    "spot": true,
+    "number": 35659,
+    "booked_bikes": 0,
+    "bikes": 7,
+    "bikes_available_to_rent": 7,
+    "active_place": 1,
+    "bike_racks": 5,
+    "free_racks": 0,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": true,
+    "terminal_type": "7inch",
+    "bike_list": [
+      {
+        "number": "722254",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300010841,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722253",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300006005,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722215",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300005127,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722181",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300007561,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722179",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300006723,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722046",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300009620,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722038",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300007624,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722254",
+      "722253",
+      "722215",
+      "722181",
+      "722179",
+      "722046",
+      "722038"
+    ],
+    "bike_types": {
+      "196": 7
+    },
+    "place_type": "16",
+    "rack_locks": false
+  },
+  {
+    "uid": 377933310,
+    "lat": 44.564866,
+    "lng": 27.360609,
+    "bike": false,
+    "name": "Casa de Cultura a Sindicatelor",
+    "address": null,
+    "spot": true,
+    "number": 35660,
+    "booked_bikes": 0,
+    "bikes": 2,
+    "bikes_available_to_rent": 2,
+    "active_place": 1,
+    "bike_racks": 20,
+    "free_racks": 14,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "7inch",
+    "bike_list": [
+      {
+        "number": "722222",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300008168,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722106",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300009133,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722222",
+      "722106"
+    ],
+    "bike_types": {
+      "196": 2
+    },
+    "place_type": "16",
+    "rack_locks": false
+  },
+  {
+    "uid": 377935123,
+    "lat": 44.564858,
+    "lng": 27.358047,
+    "bike": false,
+    "name": "Casa de cultura Municipala",
+    "address": null,
+    "spot": true,
+    "number": 35661,
+    "booked_bikes": 0,
+    "bikes": 1,
+    "bikes_available_to_rent": 1,
+    "active_place": 1,
+    "bike_racks": 5,
+    "free_racks": 4,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "7inch",
+    "bike_list": [
+      {
+        "number": "722219",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300005144,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722219"
+    ],
+    "bike_types": {
+      "196": 1
+    },
+    "place_type": "16",
+    "rack_locks": false
+  },
+  {
+    "uid": 377935443,
+    "lat": 44.56454,
+    "lng": 27.35414,
+    "bike": false,
+    "name": "Colegiul Mihai Viteazu 1",
+    "address": null,
+    "spot": true,
+    "number": 35662,
+    "booked_bikes": 0,
+    "bikes": 1,
+    "bikes_available_to_rent": 1,
+    "active_place": 1,
+    "bike_racks": 10,
+    "free_racks": 9,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "7inch",
+    "bike_list": [
+      {
+        "number": "722107",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300007556,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722107"
+    ],
+    "bike_types": {
+      "196": 1
+    },
+    "place_type": "16",
+    "rack_locks": false
+  },
+  {
+    "uid": 377935716,
+    "lat": 44.556894,
+    "lng": 27.355664,
+    "bike": false,
+    "name": "Bazinul de Inot",
+    "address": null,
+    "spot": true,
+    "number": 35664,
+    "booked_bikes": 0,
+    "bikes": 0,
+    "bikes_available_to_rent": 0,
+    "active_place": 1,
+    "bike_racks": 10,
+    "free_racks": 10,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "7inch",
+    "bike_list": [],
+    "bike_numbers": [],
+    "bike_types": {},
+    "place_type": "16",
+    "rack_locks": false
+  },
+  {
+    "uid": 377935977,
+    "lat": 44.558678,
+    "lng": 27.361514,
+    "bike": false,
+    "name": "Parcul Catedrala 1",
+    "address": null,
+    "spot": true,
+    "number": 35665,
+    "booked_bikes": 0,
+    "bikes": 3,
+    "bikes_available_to_rent": 3,
+    "active_place": 1,
+    "bike_racks": 5,
+    "free_racks": 1,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "7inch",
+    "bike_list": [
+      {
+        "number": "722237",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300010899,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722069",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300006657,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722049",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300006309,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722237",
+      "722069",
+      "722049"
+    ],
+    "bike_types": {
+      "196": 3
+    },
+    "place_type": "16",
+    "rack_locks": true
+  },
+  {
+    "uid": 377936278,
+    "lat": 44.561923,
+    "lng": 27.360924,
+    "bike": false,
+    "name": "Chimiei",
+    "address": null,
+    "spot": true,
+    "number": 35667,
+    "booked_bikes": 0,
+    "bikes": 1,
+    "bikes_available_to_rent": 1,
+    "active_place": 1,
+    "bike_racks": 10,
+    "free_racks": 8,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "7inch",
+    "bike_list": [
+      {
+        "number": "722035",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300010893,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722035"
+    ],
+    "bike_types": {
+      "196": 1
+    },
+    "place_type": "16",
+    "rack_locks": false
+  },
+  {
+    "uid": 377946572,
+    "lat": 44.563322,
+    "lng": 27.360109,
+    "bike": false,
+    "name": "Primaria",
+    "address": null,
+    "spot": true,
+    "number": 35668,
+    "booked_bikes": 0,
+    "bikes": 2,
+    "bikes_available_to_rent": 2,
+    "active_place": 1,
+    "bike_racks": 20,
+    "free_racks": 14,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": true,
+    "terminal_type": "7inch",
+    "bike_list": [
+      {
+        "number": "722023",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300005989,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722011",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300008737,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722023",
+      "722011"
+    ],
+    "bike_types": {
+      "196": 2
+    },
+    "place_type": "16",
+    "rack_locks": false
+  },
+  {
+    "uid": 377946883,
+    "lat": 44.569693,
+    "lng": 27.358309,
+    "bike": false,
+    "name": "Liceul Cuza",
+    "address": null,
+    "spot": true,
+    "number": 35670,
+    "booked_bikes": 0,
+    "bikes": 4,
+    "bikes_available_to_rent": 4,
+    "active_place": 1,
+    "bike_racks": 20,
+    "free_racks": 15,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "7inch",
+    "bike_list": [
+      {
+        "number": "722111",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300008822,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722099",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300006742,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722044",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300008813,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722021",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300007871,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722111",
+      "722099",
+      "722044",
+      "722021"
+    ],
+    "bike_types": {
+      "196": 4
+    },
+    "place_type": "16",
+    "rack_locks": false
+  },
+  {
+    "uid": 377947467,
+    "lat": 44.559145,
+    "lng": 27.365393,
+    "bike": false,
+    "name": "Pepiniera Cresa",
+    "address": null,
+    "spot": true,
+    "number": 35669,
+    "booked_bikes": 0,
+    "bikes": 6,
+    "bikes_available_to_rent": 6,
+    "active_place": 1,
+    "bike_racks": 15,
+    "free_racks": 5,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "7inch",
+    "bike_list": [
+      {
+        "number": "722263",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300006187,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722212",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300006449,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722203",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300007034,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722187",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300007648,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722133",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300005731,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722073",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300007665,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722263",
+      "722212",
+      "722203",
+      "722187",
+      "722133",
+      "722073"
+    ],
+    "bike_types": {
+      "196": 6
+    },
+    "place_type": "16",
+    "rack_locks": false
+  },
+  {
+    "uid": 377948687,
+    "lat": 44.562443,
+    "lng": 27.351603,
+    "bike": false,
+    "name": "Centrul National de informare si promovare turistică 2",
+    "address": null,
+    "spot": true,
+    "number": 35652,
+    "booked_bikes": 0,
+    "bikes": 0,
+    "bikes_available_to_rent": 0,
+    "active_place": 1,
+    "bike_racks": 5,
+    "free_racks": 5,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "7inch",
+    "bike_list": [],
+    "bike_numbers": [],
+    "bike_types": {},
+    "place_type": "16",
+    "rack_locks": false
+  },
+  {
+    "uid": 377979468,
+    "lat": 44.564545,
+    "lng": 27.354509,
+    "bike": false,
+    "name": "Colegiul Mihai Viteazu 2",
+    "address": null,
+    "spot": true,
+    "number": 35663,
+    "booked_bikes": 0,
+    "bikes": 1,
+    "bikes_available_to_rent": 1,
+    "active_place": 1,
+    "bike_racks": 5,
+    "free_racks": 4,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "7inch",
+    "bike_list": [
+      {
+        "number": "722209",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300008682,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722209"
+    ],
+    "bike_types": {
+      "196": 1
+    },
+    "place_type": "16",
+    "rack_locks": false
+  },
+  {
+    "uid": 377979825,
+    "lat": 44.558678,
+    "lng": 27.361514,
+    "bike": false,
+    "name": "Parcul Catedrala 2",
+    "address": null,
+    "spot": true,
+    "number": 35666,
+    "booked_bikes": 0,
+    "bikes": 1,
+    "bikes_available_to_rent": 1,
+    "active_place": 1,
+    "bike_racks": 5,
+    "free_racks": 3,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "7inch",
+    "bike_list": [
+      {
+        "number": "722186",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300010816,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722186"
+    ],
+    "bike_types": {
+      "196": 1
+    },
+    "place_type": "16",
+    "rack_locks": false
+  },
+  {
+    "uid": 636024761,
+    "lat": 44.562324,
+    "lng": 27.347831,
+    "bike": false,
+    "name": "Kaufland",
+    "address": null,
+    "spot": true,
+    "number": 35888,
+    "booked_bikes": 0,
+    "bikes": 0,
+    "bikes_available_to_rent": 0,
+    "active_place": 1,
+    "bike_racks": 0,
+    "free_racks": 0,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "free",
+    "bike_list": [],
+    "bike_numbers": [],
+    "bike_types": {},
+    "place_type": "17",
+    "rack_locks": false
+  },
+  {
+    "uid": 636025605,
+    "lat": 44.568336,
+    "lng": 27.363915,
+    "bike": false,
+    "name": "Cartier 500",
+    "address": null,
+    "spot": true,
+    "number": 35881,
+    "booked_bikes": 0,
+    "bikes": 5,
+    "bikes_available_to_rent": 5,
+    "active_place": 1,
+    "bike_racks": 0,
+    "free_racks": 0,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "",
+    "bike_list": [
+      {
+        "number": "722216",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300005684,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722189",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300008643,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722170",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300009616,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722062",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300008931,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722057",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300008053,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722216",
+      "722189",
+      "722170",
+      "722062",
+      "722057"
+    ],
+    "bike_types": {
+      "196": 5
+    },
+    "place_type": "17",
+    "rack_locks": false
+  },
+  {
+    "uid": 636026401,
+    "lat": 44.558836,
+    "lng": 27.391464,
+    "bike": false,
+    "name": "Cartier Bora",
+    "address": null,
+    "spot": true,
+    "number": 35882,
+    "booked_bikes": 0,
+    "bikes": 4,
+    "bikes_available_to_rent": 4,
+    "active_place": 1,
+    "bike_racks": 0,
+    "free_racks": 0,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "",
+    "bike_list": [
+      {
+        "number": "722210",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300008288,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722095",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300010727,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722088",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300007541,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722065",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300007623,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722210",
+      "722095",
+      "722088",
+      "722065"
+    ],
+    "bike_types": {
+      "196": 4
+    },
+    "place_type": "17",
+    "rack_locks": false
+  },
+  {
+    "uid": 636027002,
+    "lat": 44.574448,
+    "lng": 27.375961,
+    "bike": false,
+    "name": "Cartierul Tineretului 1 ",
+    "address": null,
+    "spot": true,
+    "number": 35883,
+    "booked_bikes": 0,
+    "bikes": 5,
+    "bikes_available_to_rent": 5,
+    "active_place": 1,
+    "bike_racks": 0,
+    "free_racks": 0,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "",
+    "bike_list": [
+      {
+        "number": "722211",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300005112,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722197",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300007551,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722163",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300005683,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722089",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300005493,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722055",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300006966,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722211",
+      "722197",
+      "722163",
+      "722089",
+      "722055"
+    ],
+    "bike_types": {
+      "196": 5
+    },
+    "place_type": "17",
+    "rack_locks": false
+  },
+  {
+    "uid": 636028761,
+    "lat": 44.564871,
+    "lng": 27.38137,
+    "bike": false,
+    "name": "Flavours/ MB13",
+    "address": null,
+    "spot": true,
+    "number": 35884,
+    "booked_bikes": 0,
+    "bikes": 4,
+    "bikes_available_to_rent": 4,
+    "active_place": 1,
+    "bike_racks": 0,
+    "free_racks": 0,
+    "special_racks": 0,
+    "free_special_racks": 0,
+    "maintenance": false,
+    "terminal_type": "",
+    "bike_list": [
+      {
+        "number": "722239",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300006016,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722109",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300010205,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722081",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300006765,
+        "pedelec_battery": null,
+        "battery_pack": null
+      },
+      {
+        "number": "722014",
+        "bike_type": 196,
+        "lock_types": [
+          "frame_lock",
+          "dls"
+        ],
+        "active": true,
+        "state": "ok",
+        "electric_lock": true,
+        "boardcomputer": 83300007612,
+        "pedelec_battery": null,
+        "battery_pack": null
+      }
+    ],
+    "bike_numbers": [
+      "722239",
+      "722109",
+      "722081",
+      "722014"
+    ],
+    "bike_types": {
+      "196": 4
+    },
+    "place_type": "17",
+    "rack_locks": false
+  }
+]
