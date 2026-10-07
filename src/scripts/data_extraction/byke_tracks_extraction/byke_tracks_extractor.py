@@ -1,0 +1,81 @@
+import json
+import time
+from pathlib import Path
+
+import requests
+
+DATA_DIR = Path(__file__).parents[3] / "data_sample"
+TRACKS_DIR = DATA_DIR / "brouter_byke_tracks"
+DEFINITION_FILE = TRACKS_DIR / "byke_tracks_definition.json"
+
+BROUTER_URL = "https://brouter.de/brouter"
+HEADERS = {"User-Agent": "SlobozaBikeRoutes/0.1 (learning project)"}
+ROUTE_PROFILE = "trekking"
+PAUSE_SECONDS = 2
+
+
+TRACKS = [
+    {
+        "track_code": "unirii",
+        "track_name": "Bulevardul Unirii (Strada Gării → Bulevardul Chimiei)",
+        "waypoints": "27.350979,44.564648;27.3609807,44.5645017",
+    },
+    {
+        "track_code": "cosminului",
+        "track_name": "Bulevardul Cosminului (Bulevardul Chimiei → Bulevardul Matei Basarab)",
+        "waypoints": "27.3609807,44.5645017;27.363939,44.563975;27.3641302,44.5621215",
+    },
+    {
+        "track_code": "chimiei_north",
+        "track_name": "Bulevardul Chimiei Nord (Bulevardul Unirii → Strada Decebal)",
+        "waypoints": "27.3609807,44.5645017;27.361112,44.566075",
+    },
+    {
+        "track_code": "basarab_west",
+        "track_name": "Bulevardul Matei Basarab Vest (→ Bulevardul Chimiei)",
+        "waypoints": "27.352867,44.562477;27.356552,44.562291;27.358924,44.562209;27.3608903,44.562148",
+    },
+    {
+        "track_code": "basarab_center",
+        "track_name": "Bulevardul Matei Basarab Centru (Bulevardul Chimiei → Bulevardul Cosminului)",
+        "waypoints": "27.3608903,44.562148;27.3641302,44.5621215",
+    },
+    {
+        "track_code": "basarab_east",
+        "track_name": "Bulevardul Matei Basarab Est (Bulevardul Cosminului → Parcul Mihai Eminescu)",
+        "waypoints": "27.3641302,44.5621215;27.365055,44.562095;27.367673,44.562092;27.371428,44.562122;27.375247,44.56226;27.377694,44.562612;27.38102,44.564432;27.383122,44.566221;27.384861,44.568026",
+    },
+    {
+        "track_code": "chimiei_south",
+        "track_name": "Bulevardul Chimiei Sud (Bulevardul Matei Basarab → Șoseaua de Centură)",
+        "waypoints": "27.3608903,44.562148;27.36082,44.560847;27.363542,44.555836",
+    },
+]
+
+def get_route(waypoints):
+    params = {
+        "lonlats": waypoints.replace(";", "|"),
+        "profile": ROUTE_PROFILE,
+        "alternativeidx": 0,
+        "format": "geojson",
+    }
+    response = requests.get(BROUTER_URL, params=params, headers=HEADERS, timeout=60)
+    response.raise_for_status()
+    return response.json()
+
+TRACKS_DIR.mkdir(exist_ok=True)
+
+for i, track in enumerate(TRACKS, start=1):
+    route = get_route(track["waypoints"])
+
+    with open(TRACKS_DIR / f"{track['track_code']}.geojson", "w", encoding="utf-8") as f:
+        json.dump(route, f, ensure_ascii=False)
+
+    length = route["features"][0]["properties"]["track-length"]
+    print(f"[{i}/{len(TRACKS)}] {track['track_code']}: {length} m")
+    time.sleep(PAUSE_SECONDS)
+
+with open(DEFINITION_FILE, "w", encoding="utf-8") as f:
+    json.dump(TRACKS, f, indent=2, ensure_ascii=False)
+
+print("Saved definitions to:", DEFINITION_FILE)
