@@ -1,5 +1,3 @@
-problema -> idee -> solutie -> metodologia de extractie a datelor - > modelare layer-urilui de staging ( tablee intermediare intre sursa si db normalizat ) -> DB normalizat + aspectele de Oracle Spatial -> Queries + Screenshots -># SLB_Slobozia_Byke_Routes
-
 <p align="center">
   <img src="screenshots/04_map_view/08_closed_loop.png" alt="The closed loop through all Slobozia Bike City stations" width="800">
 </p>
